@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Gattadi</h1>
+My personal website: https://vivekgattadi.github.io/vivek_gattadi/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgattadi&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgattadi" /> </p>
 
 
